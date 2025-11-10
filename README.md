@@ -6,9 +6,6 @@
 
 # ¡Hola 👋, soy Joel (aka. K0B4KS)
 
-
-# ¡Hola 👋, soy Joel (aka. K0B4KS)
-
 ## Acerca de mí
 
 💻 Soy un apasionado por Active Directory y el Pentesting contra AD, Powershell y desarrollo de herramientas. 
