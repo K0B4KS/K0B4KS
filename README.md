@@ -9,6 +9,10 @@ Especialista en ciberseguridad e identidad digital con 20 años de experiencia e
 
 ✍️ Mi blog: https://ethicalhacktips.com/
 
-## Proyectos recientes:
+## Proyectos recientes
+
+[![ADVulnbuster](https://github-readme-stats.vercel.app/api/pin/?username=K0B4KS&repo=ADVulnbuster)](https://github.com/K0B4KS/ADVulnbuster)
+[![ADVulnbuster-kali-linux](https://github-readme-stats.vercel.app/api/pin/?username=K0B4KS&repo=ADVulnbuster-kali-linux)](https://github.com/K0B4KS/ADVulnbuster-kali-linux)
+
 
 
